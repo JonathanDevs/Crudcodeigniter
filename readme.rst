@@ -68,3 +68,17 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+***************
+Working files: 
+***************
+ 
+/crud/application/models/Crud_model.php
+/crud/application/controllers/CrudController.php
+/crud/application/views/CrudView.php
+/crud/application/views/CrudEdit.php
+
+config:
+/crud/application/config/audtoload.php
+/crud/application/config/config.php
+/crud/application/config/database.php
